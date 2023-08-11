@@ -28,4 +28,4 @@ end
 
 cuteHeartAnimation()
 
-println("Time wasted for this custom starup = $(tPack) seconds.")
+println("Time wasted for this custom startup = $(tPack) seconds.")
